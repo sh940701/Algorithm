@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "__split_buffer": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "__locale": "cpp",
+    "__string": "cpp",
+    "string_view": "cpp"
+  }
+}
